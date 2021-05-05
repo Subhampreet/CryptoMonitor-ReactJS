@@ -1,6 +1,5 @@
 # Let's Code React-Native
 
-## [Watch it on YouTube](http://bit.ly/ByProgrammersYT)
 
 In this episode of "Let’s Code React Native" series, we are going to build a clean looking Cryptocurrency app based on the design created by David Morgan on Dribbble.
 
